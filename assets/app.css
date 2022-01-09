@@ -1,0 +1,36 @@
+.users {
+    padding: 10px;
+    border: 1px solid #303030;
+}
+
+.chats {
+    border: 1px solid #303030;
+    height: 520px;
+}
+
+.btn-send {
+    width: 100px;
+    text-align: center;
+}
+
+.message-me {
+    margin-top: 5px;
+    background-color: azure;
+    margin: 10px 10px auto auto;
+    padding: 10px;
+    border: 1px solid #303030;
+    border-radius: 20px 20px 0 20px;
+    text-align: left;
+    width: 40%;
+}
+
+.message-other {
+    margin-top: 5px;
+    background-color: cadetblue;
+    margin: 10px auto auto 10px;
+    padding: 10px;
+    border: 1px solid #303030;
+    border-radius: 20px 20px 20px 0;
+    text-align: left;
+    width: 40%;
+}
